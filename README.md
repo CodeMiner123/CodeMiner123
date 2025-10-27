@@ -1,6 +1,6 @@
-- 👋 Hi, I’m CodeMiner and you can also pronounce me MiC
+- 👋 Hi, I’m CodeMiner.
 - 👀 I’m interested in coding and programming. 
-- 🌱 I’m currently learning Python. 
+- 🌱 I know Python, SQL, and Currently learning Web development already learned HTML and CSS.
 - 💞️ I’m looking to collaborate on small to big projects.
 - 📫 How to reach me - I don't know? Sorry.
 - 😄 Pronouns: Like, I am a Boy.
