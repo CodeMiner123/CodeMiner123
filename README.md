@@ -1,10 +1,10 @@
-- 👋 Hi, I’m CodeMiner.
-- 👀 I’m interested in coding and programming. 
-- 🌱 I know Python, SQL, and Currently learning Web development - already learned HTML and CSS.
+- 👋 Hi, I’m a Developer - Developer_Gaurav
+- 👀 I’m interested in coding, programming, AI and ML. 
+- 🌱 I know Python, SQL, and have some theoretical knowledge of AI and ML. Currently learning Web development - already learned HTML and CSS.
 - 💞️ I’m looking to collaborate on small to big projects.
 - 📫 How to reach me - I don't know? Sorry.
 - 😄 Pronouns: Like, I am a Boy.
-- ⚡ Fun fact: "I write code like I’m typing a secret message—only I know what it means!"
+- ⚡ Fun fact: "There are only few illiterates who can create something innovative by typing some chaos (in VS Code 😁)."
 
 <!---
 CodeMiner123/CodeMiner123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
